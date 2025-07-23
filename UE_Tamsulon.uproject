@@ -26,6 +26,10 @@
 		{
 			"Name": "BlueprintMaterialTextureNodes",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
